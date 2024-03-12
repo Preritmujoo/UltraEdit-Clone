@@ -112,7 +112,6 @@ body {
   color: black;
   display: flex;
   gap: 0.3rem;
-
   transition: opacity 0.2s;
 }
 
@@ -166,16 +165,12 @@ body {
 #macLinux {
   padding: 0.9rem 1.4rem;
   font-weight: 800;
-
   background-color: rgb(11, 183, 217);
   color: white;
-
   border: none;
   border-radius: 6px;
-
   margin: 1.3rem 0;
   cursor: pointer;
-
   transition: background-color 0.2s;
 }
 
@@ -224,7 +219,6 @@ body {
   display: flex;
   justify-content: center;
   row-gap: 2rem;
-
   flex-direction: column;
   border-radius: 4px;
   padding: 1rem 0.7rem;
@@ -244,7 +238,6 @@ body {
   display: flex;
   justify-content: center;
   gap: 0.5rem;
-
   text-wrap: nowrap;
   flex-wrap: wrap;
 }
@@ -253,13 +246,10 @@ body {
   padding: 0.6rem 1rem;
   font-size: 0.75rem;
   font-weight: 800;
-
   background-color: rgb(11, 183, 217);
   color: white;
-
   border: none;
   border-radius: 6px;
-
   cursor: pointer;
   transition: background-color 0.2s;
 }
@@ -272,13 +262,10 @@ body {
   padding: 0.6rem 1rem;
   font-size: 0.75rem;
   font-weight: 800;
-
   background-color: rgb(68 187 110);
   color: white;
-
   border: none;
   border-radius: 6px;
-
   cursor: pointer;
   transition: opacity 0.2s;
 }
@@ -291,10 +278,8 @@ body {
   width: 100%;
   background-color: var(--fontColor);
   color: white;
-
   padding: 5rem 12rem;
   margin: 4rem 0 0 0;
-
   display: flex;
   flex-direction: column;
   z-index: 1;
@@ -313,7 +298,6 @@ body {
 #join{
   font-size: 1.4rem;
   font-weight: bold;
-
   margin: 0.5rem 0;
 }
 
@@ -322,7 +306,6 @@ body {
   flex-direction: column;
   background-color: white;
   color: black;
-
   padding: 2rem 2rem 3rem 2rem;
   border-radius: 10px;
   flex-wrap: wrap;
@@ -332,7 +315,6 @@ body {
 #subscribe{
   color: var(--BlueAqua);
   font-size: 1.45rem;
-
   margin-bottom: 1.8rem;
 }
 
@@ -346,7 +328,6 @@ body {
   padding: 0.75rem 0;
   padding-left: 10px;
   padding-right: 75px;
-
   border: 1px solid rgba(0, 0, 0, 0.168);
   margin: 0.3rem 0 0.7rem 0;
 }
@@ -359,12 +340,10 @@ body {
   background-color: var(--BlueAqua);
   border: none;
   padding: 0.85rem 6.4rem;
-
   border-radius: 4px;
   color: white;
   font-weight: bold;
   font-size: 1rem;
-
   box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.233);
   text-wrap: nowrap;
 }
@@ -509,10 +488,8 @@ body {
   bottom: 1rem;
   background-color: var(--BlueAqua);
   border: none;
-
   width: 3rem;
   height: 3rem;
-
   cursor: pointer;
 }
 
@@ -521,10 +498,8 @@ body {
     width: 100%;
     background-color: var(--fontColor);
     color: white;
-  
     padding: 5rem 8rem;
     margin: 4rem;
-  
     display: flex;
     flex-direction: column;
   }
@@ -589,10 +564,8 @@ body {
     width: 100%;
     background-color: var(--fontColor);
     color: white;
-  
     padding: 5rem 6rem;
     margin: 4rem;
-  
     display: flex;
     flex-direction: column;
   }
@@ -639,7 +612,6 @@ body {
     bottom: 0.3rem;
     background-color: var(--BlueAqua);
     border: none;
-  
     width: 2rem;
     height: 2rem;
     border-radius: 4px;
@@ -651,7 +623,6 @@ body {
   .newsletter{
     padding: 3rem 1rem;
     margin: 0.1rem;
-  
     display: flex;
     flex-direction: column;
   }
@@ -669,7 +640,6 @@ body {
   #join{
     font-size: 1.15rem;
     font-weight: bold;
-  
     margin: 0.4rem 0;
   }
   
@@ -680,7 +650,6 @@ body {
   #subscribe{
     color: var(--BlueAqua);
     font-size: 1.1rem;
-  
     margin-bottom: 1.2rem;
   }
   
@@ -694,7 +663,6 @@ body {
     padding: 0.5rem 0;
     padding-left: 5px;
     padding-right: 50px;
-  
     border: 1px solid rgba(0, 0, 0, 0.168);
   }
   
@@ -705,7 +673,6 @@ body {
   #sign-up{
     padding: 0.6rem 5rem;
     font-size: 0.7rem;
-  
     box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.233);
     text-wrap: nowrap;
   }
