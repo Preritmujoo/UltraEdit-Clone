@@ -6,7 +6,9 @@ UltraEdit is a powerful text editor widely used by developers for its extensive 
 
 ## Features
 -Responsive design: Ensures optimal viewing experience across various devices and screen sizes.
+
 -CSS Flexbox and Grid: Utilizes modern layout techniques for creating structured and flexible designs.
+
 -Styling consistency: Matches the color scheme, typography, and overall aesthetics of the original website.
 
 ## Screenshots
