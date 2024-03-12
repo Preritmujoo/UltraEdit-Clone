@@ -1,4 +1,4 @@
-# UltraEdit Website Clone
+# 🔗 UltraEdit Website Clone
 This project is a frontend clone of the UltraEdit website, created solely with HTML and CSS. It's a part of my journey in learning web development, aimed at enhancing my skills in building responsive and visually appealing user interfaces.
 
 ## Overview
@@ -19,9 +19,9 @@ UltraEdit is a powerful text editor widely used by developers for its extensive 
 ![4th Interface](https://github.com/Preritmujoo/UltraEdit-Clone/assets/95234935/8c61f495-c225-42c3-ae04-65c96fb1a2f6)
 ![Last Interface](https://github.com/Preritmujoo/UltraEdit-Clone/assets/95234935/f8a78cda-4d2f-45b7-a2ed-5f3c4e469fea)
 
-# Deployment
+## Deployment
 The deployed site can be accessed [here](https://ultraedit-clone.netlify.app/).
 
 
-# Usage
+## Usage
 Feel free to explore the codebase, experiment with the layout, or use it as a reference for your own projects. No server-side setup is required; simply open the HTML files in your browser to view the clone.
