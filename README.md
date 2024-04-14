@@ -5,11 +5,11 @@ This project is a frontend clone of the UltraEdit website, created solely with H
 UltraEdit is a powerful text editor widely used by developers for its extensive feature set. This project replicates the visual design and layout of the UltraEdit website, providing a hands-on opportunity to practice HTML structure and CSS styling techniques.
 
 ## Features
-- Responsive design: Ensures optimal viewing experience across various devices and screen sizes.
+- **Responsive design**: Ensures optimal viewing experience across various devices and screen sizes.
 
-- CSS Flexbox and Grid: Utilizes modern layout techniques for creating structured and flexible designs.
+- **CSS Flexbox and Grid**: Utilizes modern layout techniques for creating structured and flexible designs.
 
-- Styling consistency: Matches the color scheme, typography, and overall aesthetics of the original website.
+- **Styling consistency**: Matches the color scheme, typography, and overall aesthetics of the original website.
 
 ## Screenshots
 
@@ -24,4 +24,4 @@ The deployed site can be accessed [here](https://ultraedit-clone.netlify.app/).
 
 
 ## Usage
-Feel free to explore the codebase, experiment with the layout, or use it as a reference for your own projects. No server-side setup is required; simply open the HTML files in your browser to view the clone.
+Feel free to explore the codebase, experiment with the layout, or use it as a reference for your own projects. No server-side setup is required; simply open the HTML files in your browser to view the clone or you can simply visit the website through deployed site.
