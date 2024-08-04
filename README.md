@@ -24,4 +24,4 @@ The deployed site can be accessed [here](https://ultraedit-clone.netlify.app/).
 
 
 ## Usage
-Feel free to explore the codebase, experiment with the layout, or use it as a reference for your own projects. No server-side setup is required; simply open the HTML files in your browser to view the clone or you can simply visit the website through deployed site.
+Feel free to explore the codebase, experiment with the layout, or use it as a reference for your own projects. No server-side setup is required; simply open the HTML files in your browser to view the clone or you can simply visit the website through deployed site [Repository](https://github.com/Preritmujoo/UltraEdit-Clone).
